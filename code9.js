@@ -1,28 +1,28 @@
 gdjs.EndingCode = {};
-gdjs.EndingCode.GDLadder_95TileObjects1= [];
-gdjs.EndingCode.GDLadder_95TileObjects2= [];
+gdjs.EndingCode.GDLadder_9595TileObjects1= [];
+gdjs.EndingCode.GDLadder_9595TileObjects2= [];
 gdjs.EndingCode.GDTileObjects1= [];
 gdjs.EndingCode.GDTileObjects2= [];
-gdjs.EndingCode.GDBG_95CloudsObjects1= [];
-gdjs.EndingCode.GDBG_95CloudsObjects2= [];
-gdjs.EndingCode.GDBG_95MountainsObjects1= [];
-gdjs.EndingCode.GDBG_95MountainsObjects2= [];
-gdjs.EndingCode.GDBG_95SunObjects1= [];
-gdjs.EndingCode.GDBG_95SunObjects2= [];
+gdjs.EndingCode.GDBG_9595CloudsObjects1= [];
+gdjs.EndingCode.GDBG_9595CloudsObjects2= [];
+gdjs.EndingCode.GDBG_9595MountainsObjects1= [];
+gdjs.EndingCode.GDBG_9595MountainsObjects2= [];
+gdjs.EndingCode.GDBG_9595SunObjects1= [];
+gdjs.EndingCode.GDBG_9595SunObjects2= [];
 gdjs.EndingCode.GDAimanObjects1= [];
 gdjs.EndingCode.GDAimanObjects2= [];
-gdjs.EndingCode.GDTree_95HorObjects1= [];
-gdjs.EndingCode.GDTree_95HorObjects2= [];
-gdjs.EndingCode.GDTree_95VertObjects1= [];
-gdjs.EndingCode.GDTree_95VertObjects2= [];
-gdjs.EndingCode.GDHeart_95UI4Objects1= [];
-gdjs.EndingCode.GDHeart_95UI4Objects2= [];
-gdjs.EndingCode.GDHeart_95UI3Objects1= [];
-gdjs.EndingCode.GDHeart_95UI3Objects2= [];
-gdjs.EndingCode.GDHeart_95UI2Objects1= [];
-gdjs.EndingCode.GDHeart_95UI2Objects2= [];
-gdjs.EndingCode.GDHeart_95UIObjects1= [];
-gdjs.EndingCode.GDHeart_95UIObjects2= [];
+gdjs.EndingCode.GDTree_9595HorObjects1= [];
+gdjs.EndingCode.GDTree_9595HorObjects2= [];
+gdjs.EndingCode.GDTree_9595VertObjects1= [];
+gdjs.EndingCode.GDTree_9595VertObjects2= [];
+gdjs.EndingCode.GDHeart_9595UI4Objects1= [];
+gdjs.EndingCode.GDHeart_9595UI4Objects2= [];
+gdjs.EndingCode.GDHeart_9595UI3Objects1= [];
+gdjs.EndingCode.GDHeart_9595UI3Objects2= [];
+gdjs.EndingCode.GDHeart_9595UI2Objects1= [];
+gdjs.EndingCode.GDHeart_9595UI2Objects2= [];
+gdjs.EndingCode.GDHeart_9595UIObjects1= [];
+gdjs.EndingCode.GDHeart_9595UIObjects2= [];
 gdjs.EndingCode.GDHeartObjects1= [];
 gdjs.EndingCode.GDHeartObjects2= [];
 gdjs.EndingCode.GDAppleObjects1= [];
@@ -43,10 +43,10 @@ gdjs.EndingCode.GDAvocadoObjects1= [];
 gdjs.EndingCode.GDAvocadoObjects2= [];
 gdjs.EndingCode.GDMushroomObjects1= [];
 gdjs.EndingCode.GDMushroomObjects2= [];
-gdjs.EndingCode.GDLadder_95TopObjects1= [];
-gdjs.EndingCode.GDLadder_95TopObjects2= [];
-gdjs.EndingCode.GDLadder_95BottomObjects1= [];
-gdjs.EndingCode.GDLadder_95BottomObjects2= [];
+gdjs.EndingCode.GDLadder_9595TopObjects1= [];
+gdjs.EndingCode.GDLadder_9595TopObjects2= [];
+gdjs.EndingCode.GDLadder_9595BottomObjects1= [];
+gdjs.EndingCode.GDLadder_9595BottomObjects2= [];
 gdjs.EndingCode.GDFlagObjects1= [];
 gdjs.EndingCode.GDFlagObjects2= [];
 gdjs.EndingCode.GDBeeObjects1= [];
@@ -55,28 +55,28 @@ gdjs.EndingCode.GDSnakeObjects1= [];
 gdjs.EndingCode.GDSnakeObjects2= [];
 gdjs.EndingCode.GDSpikesObjects1= [];
 gdjs.EndingCode.GDSpikesObjects2= [];
-gdjs.EndingCode.GDCollision_95NOENTRYObjects1= [];
-gdjs.EndingCode.GDCollision_95NOENTRYObjects2= [];
-gdjs.EndingCode.GDCollision_95UpObjects1= [];
-gdjs.EndingCode.GDCollision_95UpObjects2= [];
-gdjs.EndingCode.GDCollision_95DownObjects1= [];
-gdjs.EndingCode.GDCollision_95DownObjects2= [];
-gdjs.EndingCode.GDCollision_95LeftObjects1= [];
-gdjs.EndingCode.GDCollision_95LeftObjects2= [];
-gdjs.EndingCode.GDCollision_95RightObjects1= [];
-gdjs.EndingCode.GDCollision_95RightObjects2= [];
-gdjs.EndingCode.GDFoods_95ScoreObjects1= [];
-gdjs.EndingCode.GDFoods_95ScoreObjects2= [];
-gdjs.EndingCode.GDLife_95ScoreObjects1= [];
-gdjs.EndingCode.GDLife_95ScoreObjects2= [];
-gdjs.EndingCode.GDMP_95LRObjects1= [];
-gdjs.EndingCode.GDMP_95LRObjects2= [];
-gdjs.EndingCode.GDMP_95UDObjects1= [];
-gdjs.EndingCode.GDMP_95UDObjects2= [];
+gdjs.EndingCode.GDCollision_9595NOENTRYObjects1= [];
+gdjs.EndingCode.GDCollision_9595NOENTRYObjects2= [];
+gdjs.EndingCode.GDCollision_9595UpObjects1= [];
+gdjs.EndingCode.GDCollision_9595UpObjects2= [];
+gdjs.EndingCode.GDCollision_9595DownObjects1= [];
+gdjs.EndingCode.GDCollision_9595DownObjects2= [];
+gdjs.EndingCode.GDCollision_9595LeftObjects1= [];
+gdjs.EndingCode.GDCollision_9595LeftObjects2= [];
+gdjs.EndingCode.GDCollision_9595RightObjects1= [];
+gdjs.EndingCode.GDCollision_9595RightObjects2= [];
+gdjs.EndingCode.GDFoods_9595ScoreObjects1= [];
+gdjs.EndingCode.GDFoods_9595ScoreObjects2= [];
+gdjs.EndingCode.GDLife_9595ScoreObjects1= [];
+gdjs.EndingCode.GDLife_9595ScoreObjects2= [];
+gdjs.EndingCode.GDMP_9595LRObjects1= [];
+gdjs.EndingCode.GDMP_9595LRObjects2= [];
+gdjs.EndingCode.GDMP_9595UDObjects1= [];
+gdjs.EndingCode.GDMP_9595UDObjects2= [];
 gdjs.EndingCode.GDFallblockObjects1= [];
 gdjs.EndingCode.GDFallblockObjects2= [];
-gdjs.EndingCode.GDMenu_95AimanObjects1= [];
-gdjs.EndingCode.GDMenu_95AimanObjects2= [];
+gdjs.EndingCode.GDMenu_9595AimanObjects1= [];
+gdjs.EndingCode.GDMenu_9595AimanObjects2= [];
 gdjs.EndingCode.GDgameover1Objects1= [];
 gdjs.EndingCode.GDgameover1Objects2= [];
 gdjs.EndingCode.GDBrownArrowObjects1= [];
@@ -117,8 +117,12 @@ gdjs.EndingCode.GDHeartEmitterObjects1= [];
 gdjs.EndingCode.GDHeartEmitterObjects2= [];
 gdjs.EndingCode.GDMushroomEmitterObjects1= [];
 gdjs.EndingCode.GDMushroomEmitterObjects2= [];
-gdjs.EndingCode.GDnot_95enufObjects1= [];
-gdjs.EndingCode.GDnot_95enufObjects2= [];
+gdjs.EndingCode.GDnot_9595enufObjects1= [];
+gdjs.EndingCode.GDnot_9595enufObjects2= [];
+gdjs.EndingCode.GDaqwiseObjects1= [];
+gdjs.EndingCode.GDaqwiseObjects2= [];
+gdjs.EndingCode.GDaqwiseccObjects1= [];
+gdjs.EndingCode.GDaqwiseccObjects2= [];
 gdjs.EndingCode.GDwinObjects1= [];
 gdjs.EndingCode.GDwinObjects2= [];
 gdjs.EndingCode.GDcreditsObjects1= [];
@@ -127,7 +131,7 @@ gdjs.EndingCode.GDcreditObjects1= [];
 gdjs.EndingCode.GDcreditObjects2= [];
 
 
-gdjs.EndingCode.asyncCallback14175860 = function (runtimeScene, asyncObjectsList) {
+gdjs.EndingCode.asyncCallback16923780 = function (runtimeScene, asyncObjectsList) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Main Menu", false);
 }}
 gdjs.EndingCode.eventsList0 = function(runtimeScene) {
@@ -138,14 +142,14 @@ gdjs.EndingCode.eventsList0 = function(runtimeScene) {
 {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.5), (runtimeScene) => (gdjs.EndingCode.asyncCallback14175860(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.5), (runtimeScene) => (gdjs.EndingCode.asyncCallback16923780(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.EndingCode.asyncCallback14176700 = function (runtimeScene, asyncObjectsList) {
+};gdjs.EndingCode.asyncCallback16924620 = function (runtimeScene, asyncObjectsList) {
 {gdjs.evtTools.runtimeScene.stopGame(runtimeScene);
 }}
 gdjs.EndingCode.eventsList1 = function(runtimeScene) {
@@ -156,14 +160,14 @@ gdjs.EndingCode.eventsList1 = function(runtimeScene) {
 {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.5), (runtimeScene) => (gdjs.EndingCode.asyncCallback14176700(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.5), (runtimeScene) => (gdjs.EndingCode.asyncCallback16924620(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.EndingCode.asyncCallback14177876 = function (runtimeScene, asyncObjectsList) {
+};gdjs.EndingCode.asyncCallback16925796 = function (runtimeScene, asyncObjectsList) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Credits", false);
 }}
 gdjs.EndingCode.eventsList2 = function(runtimeScene) {
@@ -174,7 +178,7 @@ gdjs.EndingCode.eventsList2 = function(runtimeScene) {
 {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.5), (runtimeScene) => (gdjs.EndingCode.asyncCallback14177876(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.5), (runtimeScene) => (gdjs.EndingCode.asyncCallback16925796(runtimeScene, asyncObjectsList)));
 }
 }
 
@@ -273,30 +277,30 @@ gdjs.EndingCode.eventsList2(runtimeScene);} //End of subevents
 gdjs.EndingCode.func = function(runtimeScene) {
 runtimeScene.getOnceTriggers().startNewFrame();
 
-gdjs.EndingCode.GDLadder_95TileObjects1.length = 0;
-gdjs.EndingCode.GDLadder_95TileObjects2.length = 0;
+gdjs.EndingCode.GDLadder_9595TileObjects1.length = 0;
+gdjs.EndingCode.GDLadder_9595TileObjects2.length = 0;
 gdjs.EndingCode.GDTileObjects1.length = 0;
 gdjs.EndingCode.GDTileObjects2.length = 0;
-gdjs.EndingCode.GDBG_95CloudsObjects1.length = 0;
-gdjs.EndingCode.GDBG_95CloudsObjects2.length = 0;
-gdjs.EndingCode.GDBG_95MountainsObjects1.length = 0;
-gdjs.EndingCode.GDBG_95MountainsObjects2.length = 0;
-gdjs.EndingCode.GDBG_95SunObjects1.length = 0;
-gdjs.EndingCode.GDBG_95SunObjects2.length = 0;
+gdjs.EndingCode.GDBG_9595CloudsObjects1.length = 0;
+gdjs.EndingCode.GDBG_9595CloudsObjects2.length = 0;
+gdjs.EndingCode.GDBG_9595MountainsObjects1.length = 0;
+gdjs.EndingCode.GDBG_9595MountainsObjects2.length = 0;
+gdjs.EndingCode.GDBG_9595SunObjects1.length = 0;
+gdjs.EndingCode.GDBG_9595SunObjects2.length = 0;
 gdjs.EndingCode.GDAimanObjects1.length = 0;
 gdjs.EndingCode.GDAimanObjects2.length = 0;
-gdjs.EndingCode.GDTree_95HorObjects1.length = 0;
-gdjs.EndingCode.GDTree_95HorObjects2.length = 0;
-gdjs.EndingCode.GDTree_95VertObjects1.length = 0;
-gdjs.EndingCode.GDTree_95VertObjects2.length = 0;
-gdjs.EndingCode.GDHeart_95UI4Objects1.length = 0;
-gdjs.EndingCode.GDHeart_95UI4Objects2.length = 0;
-gdjs.EndingCode.GDHeart_95UI3Objects1.length = 0;
-gdjs.EndingCode.GDHeart_95UI3Objects2.length = 0;
-gdjs.EndingCode.GDHeart_95UI2Objects1.length = 0;
-gdjs.EndingCode.GDHeart_95UI2Objects2.length = 0;
-gdjs.EndingCode.GDHeart_95UIObjects1.length = 0;
-gdjs.EndingCode.GDHeart_95UIObjects2.length = 0;
+gdjs.EndingCode.GDTree_9595HorObjects1.length = 0;
+gdjs.EndingCode.GDTree_9595HorObjects2.length = 0;
+gdjs.EndingCode.GDTree_9595VertObjects1.length = 0;
+gdjs.EndingCode.GDTree_9595VertObjects2.length = 0;
+gdjs.EndingCode.GDHeart_9595UI4Objects1.length = 0;
+gdjs.EndingCode.GDHeart_9595UI4Objects2.length = 0;
+gdjs.EndingCode.GDHeart_9595UI3Objects1.length = 0;
+gdjs.EndingCode.GDHeart_9595UI3Objects2.length = 0;
+gdjs.EndingCode.GDHeart_9595UI2Objects1.length = 0;
+gdjs.EndingCode.GDHeart_9595UI2Objects2.length = 0;
+gdjs.EndingCode.GDHeart_9595UIObjects1.length = 0;
+gdjs.EndingCode.GDHeart_9595UIObjects2.length = 0;
 gdjs.EndingCode.GDHeartObjects1.length = 0;
 gdjs.EndingCode.GDHeartObjects2.length = 0;
 gdjs.EndingCode.GDAppleObjects1.length = 0;
@@ -317,10 +321,10 @@ gdjs.EndingCode.GDAvocadoObjects1.length = 0;
 gdjs.EndingCode.GDAvocadoObjects2.length = 0;
 gdjs.EndingCode.GDMushroomObjects1.length = 0;
 gdjs.EndingCode.GDMushroomObjects2.length = 0;
-gdjs.EndingCode.GDLadder_95TopObjects1.length = 0;
-gdjs.EndingCode.GDLadder_95TopObjects2.length = 0;
-gdjs.EndingCode.GDLadder_95BottomObjects1.length = 0;
-gdjs.EndingCode.GDLadder_95BottomObjects2.length = 0;
+gdjs.EndingCode.GDLadder_9595TopObjects1.length = 0;
+gdjs.EndingCode.GDLadder_9595TopObjects2.length = 0;
+gdjs.EndingCode.GDLadder_9595BottomObjects1.length = 0;
+gdjs.EndingCode.GDLadder_9595BottomObjects2.length = 0;
 gdjs.EndingCode.GDFlagObjects1.length = 0;
 gdjs.EndingCode.GDFlagObjects2.length = 0;
 gdjs.EndingCode.GDBeeObjects1.length = 0;
@@ -329,28 +333,28 @@ gdjs.EndingCode.GDSnakeObjects1.length = 0;
 gdjs.EndingCode.GDSnakeObjects2.length = 0;
 gdjs.EndingCode.GDSpikesObjects1.length = 0;
 gdjs.EndingCode.GDSpikesObjects2.length = 0;
-gdjs.EndingCode.GDCollision_95NOENTRYObjects1.length = 0;
-gdjs.EndingCode.GDCollision_95NOENTRYObjects2.length = 0;
-gdjs.EndingCode.GDCollision_95UpObjects1.length = 0;
-gdjs.EndingCode.GDCollision_95UpObjects2.length = 0;
-gdjs.EndingCode.GDCollision_95DownObjects1.length = 0;
-gdjs.EndingCode.GDCollision_95DownObjects2.length = 0;
-gdjs.EndingCode.GDCollision_95LeftObjects1.length = 0;
-gdjs.EndingCode.GDCollision_95LeftObjects2.length = 0;
-gdjs.EndingCode.GDCollision_95RightObjects1.length = 0;
-gdjs.EndingCode.GDCollision_95RightObjects2.length = 0;
-gdjs.EndingCode.GDFoods_95ScoreObjects1.length = 0;
-gdjs.EndingCode.GDFoods_95ScoreObjects2.length = 0;
-gdjs.EndingCode.GDLife_95ScoreObjects1.length = 0;
-gdjs.EndingCode.GDLife_95ScoreObjects2.length = 0;
-gdjs.EndingCode.GDMP_95LRObjects1.length = 0;
-gdjs.EndingCode.GDMP_95LRObjects2.length = 0;
-gdjs.EndingCode.GDMP_95UDObjects1.length = 0;
-gdjs.EndingCode.GDMP_95UDObjects2.length = 0;
+gdjs.EndingCode.GDCollision_9595NOENTRYObjects1.length = 0;
+gdjs.EndingCode.GDCollision_9595NOENTRYObjects2.length = 0;
+gdjs.EndingCode.GDCollision_9595UpObjects1.length = 0;
+gdjs.EndingCode.GDCollision_9595UpObjects2.length = 0;
+gdjs.EndingCode.GDCollision_9595DownObjects1.length = 0;
+gdjs.EndingCode.GDCollision_9595DownObjects2.length = 0;
+gdjs.EndingCode.GDCollision_9595LeftObjects1.length = 0;
+gdjs.EndingCode.GDCollision_9595LeftObjects2.length = 0;
+gdjs.EndingCode.GDCollision_9595RightObjects1.length = 0;
+gdjs.EndingCode.GDCollision_9595RightObjects2.length = 0;
+gdjs.EndingCode.GDFoods_9595ScoreObjects1.length = 0;
+gdjs.EndingCode.GDFoods_9595ScoreObjects2.length = 0;
+gdjs.EndingCode.GDLife_9595ScoreObjects1.length = 0;
+gdjs.EndingCode.GDLife_9595ScoreObjects2.length = 0;
+gdjs.EndingCode.GDMP_9595LRObjects1.length = 0;
+gdjs.EndingCode.GDMP_9595LRObjects2.length = 0;
+gdjs.EndingCode.GDMP_9595UDObjects1.length = 0;
+gdjs.EndingCode.GDMP_9595UDObjects2.length = 0;
 gdjs.EndingCode.GDFallblockObjects1.length = 0;
 gdjs.EndingCode.GDFallblockObjects2.length = 0;
-gdjs.EndingCode.GDMenu_95AimanObjects1.length = 0;
-gdjs.EndingCode.GDMenu_95AimanObjects2.length = 0;
+gdjs.EndingCode.GDMenu_9595AimanObjects1.length = 0;
+gdjs.EndingCode.GDMenu_9595AimanObjects2.length = 0;
 gdjs.EndingCode.GDgameover1Objects1.length = 0;
 gdjs.EndingCode.GDgameover1Objects2.length = 0;
 gdjs.EndingCode.GDBrownArrowObjects1.length = 0;
@@ -391,8 +395,12 @@ gdjs.EndingCode.GDHeartEmitterObjects1.length = 0;
 gdjs.EndingCode.GDHeartEmitterObjects2.length = 0;
 gdjs.EndingCode.GDMushroomEmitterObjects1.length = 0;
 gdjs.EndingCode.GDMushroomEmitterObjects2.length = 0;
-gdjs.EndingCode.GDnot_95enufObjects1.length = 0;
-gdjs.EndingCode.GDnot_95enufObjects2.length = 0;
+gdjs.EndingCode.GDnot_9595enufObjects1.length = 0;
+gdjs.EndingCode.GDnot_9595enufObjects2.length = 0;
+gdjs.EndingCode.GDaqwiseObjects1.length = 0;
+gdjs.EndingCode.GDaqwiseObjects2.length = 0;
+gdjs.EndingCode.GDaqwiseccObjects1.length = 0;
+gdjs.EndingCode.GDaqwiseccObjects2.length = 0;
 gdjs.EndingCode.GDwinObjects1.length = 0;
 gdjs.EndingCode.GDwinObjects2.length = 0;
 gdjs.EndingCode.GDcreditsObjects1.length = 0;

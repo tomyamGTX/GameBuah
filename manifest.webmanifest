@@ -2,7 +2,7 @@
   "name": "Mari Mengumpul Buah",
   "short_name": "Mari Mengumpul Buah",
   "id": "com.faiqal.marimengenalbuah",
-  "description": "Mari belajar untuk mengenal buah-buahan dan bantu Aiman untuk mengumpul buah-buahan dan kalahkan haiwan dan serangga yang berbahaya!",
+  "description": "Mari belajar untuk mengenal buah-buahan dan bantu Aiman untuk mengumpul buah-buahan dan kalahkan haiwan dan serangga yang berbahaya!\n\nLet's collect fruits with Aiman and learn the names of local and imported fruits. Collect all 8 fruits and defeat poisonous animals and insects to win!!",
   "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
